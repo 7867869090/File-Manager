@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1704635450 source:c:\users\asada\onedrive\documents\dsa\dsa project\code\finalp\main.cpp
+	<iostream>
+	"FileExplorer.h"
+
+1704641153 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalp\fileexplorer.h
+	"BinarySearchTree.h"
+	"SortingAlgorithms.h"
+	<string>
+	"Queue.h"
+
+1704635297 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalp\binarysearchtree.h
+	"TreeNode.h"
+	"FileMetaData.h"
+
+1704635276 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalp\treenode.h
+	"FileMetaData.h"
+
+1704635236 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalp\filemetadata.h
+	<iostream>
+	<string>
+	<ctime>
+
+1704635231 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalp\queue.h
+	<iostream>
+	<string>
+	"FileExplorer.h"
+
+1704632284 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalp\sortingalgorithms.h
+	"FileMetaData.h"
+
+1704641372 source:c:\users\asada\onedrive\documents\dsa\dsa project\code\finalproject\main.cpp
+	<iostream>
+	<string>
+	"FileExplorer.h"
+
+1704716917 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalproject\fileexplorer.h
+	"BinarySearchTree.h"
+	"SortingAlgorithms.h"
+	<string>
+	"Queue.h"
+
+1704635297 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalproject\binarysearchtree.h
+	"TreeNode.h"
+	"FileMetaData.h"
+
+1704635276 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalproject\treenode.h
+	"FileMetaData.h"
+
+1704716733 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalproject\filemetadata.h
+	<iostream>
+	<string>
+	<ctime>
+
+1704632284 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalproject\sortingalgorithms.h
+	"FileMetaData.h"
+
+1704635231 c:\users\asada\onedrive\documents\dsa\dsa project\code\finalproject\queue.h
+	<iostream>
+	<string>
+	"FileExplorer.h"
+
